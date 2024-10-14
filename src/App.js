@@ -34,8 +34,8 @@ function App() {
               </Nav.Link>
               <Nav.Link href='/forme' className=' text-uppercase'>Form
               </Nav.Link>
-              <Nav.Link href='/register' className=' text-uppercase'>register
-              </Nav.Link>
+              {/* <Nav.Link href='/register' className=' text-uppercase'>register
+              </Nav.Link> */}
 
 
             </Nav>
