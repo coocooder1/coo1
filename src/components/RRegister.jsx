@@ -48,7 +48,7 @@ function Register() {
 
         </div>
         <div className='mb-3'>
-          <label>Psdsword</label>
+          <label>Password</label>
           <input type="password" className='form-control' placeholder='Enter password' value={password} onChange={(e) => setPassword(e.target.value)}></input>
 
 
