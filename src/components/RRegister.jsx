@@ -38,7 +38,7 @@ function Register() {
           </div>
 
            <div className='mb-3'>
-          <label>Firstname</label>
+          <label>Lastname</label>
           <input type="text" className='form-control' placeholder='Firstname'  onChange={(e) => setLname(e.target.value)}></input>
           </div>
 
